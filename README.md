@@ -1,6 +1,6 @@
 <div align="center">
  
-<h1 align="center">eBay Shopping</h1>
+<h1 align="center">FindMyProduct!</h1>
 
 [![](https://img.shields.io/badge/App_Made_with-Kotlin-purple?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/Backend_Made_with-NodeJS-green?style=for-the-badge&logo=node)](https://nodejs.org/)
