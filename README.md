@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-eBay Shopping is an Android app allowing users to search for products on eBay, view details, save to Wishlist, and share on social media. This app is part of the CSCI 571 course project. The code is available upon request.
+FindMyProduct! is an Android app allowing users to search for products on eBay, view details, save to Wishlist, and share on social media. This app is part of the CSCI 571 course project. The code is available upon request.
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -35,7 +35,7 @@ eBay Shopping is an Android app allowing users to search for products on eBay, v
 
 ### Steps to install
 1. #### Cloning the repository: 
-   - [x] Clone repository using `git clone https://github.com/udishkumar/webdevelopment.git` 
+   - [x] Clone repository using `git clone https://github.com/udishkumar/findmyproduct.git` 
 
 * [Kotlin](#)
 * [Android Studio](#)
