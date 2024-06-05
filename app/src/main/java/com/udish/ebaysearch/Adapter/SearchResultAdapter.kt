@@ -1,4 +1,4 @@
-package com.udish.ebaysearch.adapter
+package com.udish.ebaysearch.Adapter
 
 import android.content.Context
 import android.util.Log

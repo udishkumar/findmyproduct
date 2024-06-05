@@ -20,7 +20,7 @@ import com.android.volley.toolbox.JsonArrayRequest
 import com.android.volley.toolbox.Volley
 import com.udish.ebaysearch.MainActivity
 import com.udish.ebaysearch.R
-import com.udish.ebaysearch.adapter.SearchResultAdapter
+import com.udish.ebaysearch.Adapter.SearchResultAdapter
 import com.udish.ebaysearch.utils.Product
 import com.udish.ebaysearch.utils.SharedViewModel
 import org.json.JSONArray
