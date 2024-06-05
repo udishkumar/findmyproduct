@@ -1,6 +1,6 @@
 <div align="center">
  
-<h1 align="center">eBay Shopping</h1>
+<h1 align="center">FindMyProduct!</h1>
 
 [![](https://img.shields.io/badge/App_Made_with-Kotlin-purple?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/Backend_Made_with-NodeJS-green?style=for-the-badge&logo=node)](https://nodejs.org/)
@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-eBay Shopping is an Android app allowing users to search for products on eBay, view details, save to Wishlist, and share on social media. This app is part of the CSCI 571 course project. The code is available upon request.
+FindMyProduct! is an Android app allowing users to search for products on eBay, view details, save to Wishlist, and share on social media. This app is part of the CSCI 571 course project. The code is available upon request.
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -35,7 +35,7 @@ eBay Shopping is an Android app allowing users to search for products on eBay, v
 
 ### Steps to install
 1. #### Cloning the repository: 
-   - [x] Clone repository using `git clone https://github.com/udishkumar/webdevelopment.git` 
+   - [x] Clone repository using `git clone https://github.com/udishkumar/findmyproduct.git` 
 
 * [Kotlin](#)
 * [Android Studio](#)
