@@ -58,13 +58,12 @@ FindMyProduct! is an Android app allowing users to search for products on eBay, 
 
 Get the app [here](https://play.google.com/store/apps/details?id=com.udish.ebaysearch).
 
-![image](https://github.com/udishkumar/webdevelopment/assets/35232077/d650ad00-f00e-4d0b-8bf7-33a769048c3e)
-
-
 <!-- DEMO -->
-#### Demo
 
-[Include link to demo assets or video here]
+## Demo Video
+
+[![Watch the video](https://github.com/udishkumar/webdevelopment/assets/35232077/d650ad00-f00e-4d0b-8bf7-33a769048c3e)](https://youtu.be/AGsrApo_8wA)
+
 
 <!-- CONTACT -->
 ## Contact
